@@ -8,13 +8,13 @@
       <geometry>
        <mesh filename="package://mycobot_description/urdf/adaptive_gripper/gripper_base.dae"/>
       </geometry>
-    <origin xyz = "0.0 0 -0.012 " rpy = " 0 0 0"/>
+      <origin xyz = "0.0 0 -0.012 " rpy = " 0 0 0"/>
     </visual>
     <collision>
       <geometry>
        <mesh filename="package://mycobot_description/urdf/adaptive_gripper/gripper_base.dae"/>
       </geometry>
-    <origin xyz = "0.0 0 -0.012 " rpy = " 0 0 0"/>
+     <origin xyz = "0.0 0 -0.012 " rpy = " 0 0 0"/>
     </collision>
   </link>
 
@@ -23,13 +23,13 @@
       <geometry>
        <mesh filename="package://mycobot_description/urdf/adaptive_gripper/gripper_left1.dae"/>
       </geometry>
-    <origin xyz = "0.039 -0.0133 -0.012 " rpy = " 0 0 0"/>
+      <origin xyz = "0.039 -0.0133 -0.012 " rpy = " 0 0 0"/>
     </visual>
     <collision>
       <geometry>
        <mesh filename="package://mycobot_description/urdf/adaptive_gripper/gripper_left1.dae"/>
       </geometry>
-        <origin xyz = "0.039 -0.0133 -0.012 " rpy = " 0 0 0"/>
+      <origin xyz = "0.039 -0.0133 -0.012 " rpy = " 0 0 0"/>
     </collision>
   </link>
 
@@ -38,13 +38,13 @@
       <geometry>
        <mesh filename="package://mycobot_description/urdf/adaptive_gripper/gripper_left2.dae"/>
       </geometry>
-    <origin xyz = "0.005 -0.0195 -0.012 " rpy = " 0 0 0"/>
+      <origin xyz = "0.005 -0.0195 -0.012 " rpy = " 0 0 0"/>
     </visual>
     <collision>
       <geometry>
        <mesh filename="package://mycobot_description/urdf/adaptive_gripper/gripper_left2.dae"/>
       </geometry>
-        <origin xyz = "0.005 -0.0195 -0.012 " rpy = " 0 0 0"/>
+      <origin xyz = "0.005 -0.0195 -0.012 " rpy = " 0 0 0"/>
     </collision>
   </link>
 
